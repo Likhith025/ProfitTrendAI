@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/andrewmvd/india-stock-market/data
+
+1. We will be extracting the data from zerodha kite API to our excel or SQL database
+2. Then we will compute the indicator values and add to it
